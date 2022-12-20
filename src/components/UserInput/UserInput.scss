@@ -1,0 +1,12 @@
+.userInput__container{
+    display: flex;
+    justify-content: center;
+    // border: solid 5px red;
+}
+.userInput--input{
+    height: 3rem;
+    width: 90%;
+    border: solid 5px black;
+    margin: 0 0 1rem 0;
+    border-radius:5rem;
+}
